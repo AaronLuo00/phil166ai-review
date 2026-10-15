@@ -2,7 +2,7 @@
 
 PHIL 166AI *Artificial Agency and Society*（Harvard, Fall 2026）前半学期梳理与期中复习网页。TF 整理，非官方材料。
 
-整个网站就是一个 `index.html`，没有构建步骤，也不依赖服务器。
+整个网站就是一个 `index.html`，没有构建步骤，也不依赖服务器。支持中英文切换（右上角，或在网址后加 `?lang=en`）。
 
 ## 内容
 
@@ -10,8 +10,9 @@ PHIL 166AI *Artificial Agency and Society*（Harvard, Fall 2026）前半学期�
 - 课程地图：四个站点
 - 概念关系图：六个分支，点格子看连接
 - 按周梳理（第 1–6 周）
-- 三种立场：我们在和什么说话
-- 本周深读：Goldstein & Lederman、Roberts
+- 四个问题与四种立场：我们在和什么说话
+- 第 6 周内含 Goldstein & Lederman、Roberts 的细读
+- 五个演示：有效性 Venn、惊讶原则、我们在和谁说话、虚构的共同建构、HHH vs HHH+0
 - 作业与测验考察的能力
 - 论证分类小测，以及 8 道练习题和要点
 - 关键概念速查（可搜索）
